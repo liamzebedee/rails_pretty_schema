@@ -1,6 +1,9 @@
 # rails_pretty_schema
 Parses schema.rb and outputs a nicer pretty schema
 
+## Usage
+Put `pretty_schema.rb` in your **db** folder, and run it using `ruby`.
+
 ## Example
 Takes a schema file containing Ruby code like this:
 ```
